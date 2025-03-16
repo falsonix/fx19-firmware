@@ -14,7 +14,7 @@
         "rgblight": true
     },
     "rgblight": {
-        "led_count": 5,
+        "led_count": 6,
         "animations": {
             "rainbow_mood": true,
             "rainbow_swirl": true
