@@ -9,8 +9,10 @@ This repository contains the firmware for the FX19 number pad.
     - `src/keymaps/via`: Source code with VIA support.
     - `src/keymaps/default`: Source code without VIA support.
 
-- **Precompiled Binary**:
-    - `falsonix_fx19_via.hex`: Precompiled VIA binary, for use with tools such as QMK Toolbox.
+- **Precompiled Binaries**:
+    - `falsonix_fx19_via.hex`: Precompiled binary **with** VIA support.
+    - `falsonix_fx19_default.hex`: Precompiled binary **without** VIA support.
+    - Both of these binaries can be flashed to the board via QMK Toolbox or another similar tool.
 
 - **VIA Layout file**
     - `via.json`: VIA layout file for use with the VIA configurator at [https://usevia.app/](https://usevia.app/)
