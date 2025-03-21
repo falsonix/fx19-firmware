@@ -1,6 +1,6 @@
 # FX19 Firmware
 
-This repository contains the firmware for the FX19 number pad.
+This repository contains the firmware for the FX19 number pad. Yes, this is QMK firmware, just stored here for ease of access and since they don't allow VIA code in their repository.
 **Huge apologies for not including this earlier, as I made this months ago and didn't remember.**
 
 ## Contents
